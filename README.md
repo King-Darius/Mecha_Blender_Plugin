@@ -1,3 +1,4 @@
+This is an unfinished project I may or may not take up again.
 # Mecha_Blender_Plugin
 Plugin to Build Mechs in Blender
 
